@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mfloresl@ulasalle.edu.pe
+	name = Miguel Flores
